@@ -10,9 +10,10 @@ main() {
 	cout<<endl;
 	cout<<"R="<<r;
 }
-```c
-## Deret bilangan
 
+```
+## Deret bilangan
+```c
 1. mulai
 2. Masukkan bilangan awal 1
 3. masukkan bilangan akhir 13
@@ -22,8 +23,10 @@ main() {
 7. loncatkan jumlah 5 = 8 = 3 
 8. loncatkan jumlah 8 ke 13 = 5
 
-```c
+```
+
 ## Bahasa Pemograman C++
+```c
 main() {
 int a;
 int b;
